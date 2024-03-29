@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+.header {
+    background-color: black;
+    padding-left: 10pt;
+    padding-right: 10pt;
+}
+
+.nav {
+    background-color: black;
+    padding: 5pt;
+}
+
+#logo {
+    height: 60pt;
+}
+
