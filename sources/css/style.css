@@ -1,5 +1,7 @@
 body{
     margin: 0;
+    background-color: black;
+    background-repeat: no-repeat;
 }
 
 .header {
@@ -11,9 +13,27 @@ body{
 .nav {
     background-color: black;
     padding: 5pt;
+    text-align: right;
 }
 
 #logo {
     height: 60pt;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.links{
+    padding-left: 20pt;
+    padding-right: 20pt;
+}
+
+.article {
+    min-height: 1500pt;
+}
+
+
+
 
