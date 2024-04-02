@@ -34,6 +34,7 @@ a {
 .article {
     position: relative;
     overflow: hidden;
+    min-height: 1000pt;
 }
 
 .content {
