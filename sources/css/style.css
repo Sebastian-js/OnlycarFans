@@ -34,7 +34,6 @@ a {
 .article {
     position: relative;
     overflow: hidden;
-    min-height: 1000pt;
 }
 
 .content {
@@ -48,9 +47,16 @@ a {
     text-align: center;
 }
 
-.marchio {
-    max-width: 10%;
+.boh {
+    display: flex;
+    vertical-align: center;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 50pt 0 50pt 0;
 }
 
+.marchio {
+    max-width: 200pt;
+}
 
 
